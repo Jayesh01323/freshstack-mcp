@@ -1,0 +1,6 @@
+{
+  "name": "FreshStack MCP",
+  "description": "Evidence-backed technology intelligence layer for AI coding agents to prevent outdated or version-incompatible code.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

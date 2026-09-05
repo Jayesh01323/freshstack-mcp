@@ -1,0 +1,12 @@
+[project]
+name = "freshstack-v1-project"
+version = "0.1.0"
+description = "V1 stack test application for version awareness verification"
+requires-python = ">=3.10"
+dependencies = [
+    "fastapi==0.88.0",
+    "pydantic==1.10.18",
+    "sqlalchemy==1.4.52",
+]
+
+[tool.uv]

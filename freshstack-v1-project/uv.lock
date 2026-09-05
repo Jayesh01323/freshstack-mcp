@@ -1,0 +1,21 @@
+version = 1
+revision = 1
+requires-python = ">=3.10"
+
+[[package]]
+name = "fastapi"
+version = "0.88.0"
+source = { registry = "https://pypi.org/simple" }
+sdist = { url = "https://files.pythonhosted.org/packages/fastapi-0.88.0.tar.gz" }
+
+[[package]]
+name = "pydantic"
+version = "1.10.18"
+source = { registry = "https://pypi.org/simple" }
+sdist = { url = "https://files.pythonhosted.org/packages/pydantic-1.10.18.tar.gz" }
+
+[[package]]
+name = "sqlalchemy"
+version = "1.4.52"
+source = { registry = "https://pypi.org/simple" }
+sdist = { url = "https://files.pythonhosted.org/packages/sqlalchemy-1.4.52.tar.gz" }
